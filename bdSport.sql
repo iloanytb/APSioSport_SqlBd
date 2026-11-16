@@ -53,8 +53,8 @@ ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 Insert Into Sportif(nom,prenom,dateNais,rue,cp,ville) Values 
 ("Marchand","Léon","2002-05-17"," 9 All. Gabriel Biénès","31400","Toulouse"),
 ("Paletier","Josselin","1975-03-14","8 Rue des vignes","69000","Lyon"),
-("Quintin","David","1980-09-07","9 Place Paul Eychart","63100","Clermont-Ferrand"),
-("Roland","Jules","2010-06-15","16 Place Pigalle","63000","Clermont-Ferrand")
+("QX","DX","1980-09-07","XXXXX","63100","Clermont-Ferrand"),
+("RX","JX","2010-06-15","XXXXXX","63000","Clermont-Ferrand")
 ;
 Insert Into Sport(lib) Values
 ("Natation"),
